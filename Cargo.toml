@@ -1,0 +1,9 @@
+[package]
+name = "sumfilesizes"
+version = "0.1.0"
+authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+
+[dependencies]
+number_prefix = "0.2.5"
+rayon = "0.8.2"
+walkdir = "1.0.1"
